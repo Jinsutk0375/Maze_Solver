@@ -27,11 +27,13 @@ This project is an autonomous **maze-solving robot** that uses **ultrasonic sens
 2. **Connect the components** as per the circuit diagram.  
 3. **Power the robot** and let it navigate the maze autonomously.  
 
+## 🎥 Project Video  
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/user-attachments/assets/933201b9-0f6b-4117-b99b-60c51002937b)  
+
 ## 🎯 Applications  
 - 🤖 Autonomous maze-solving robots  
 - 🚧 Obstacle avoidance systems  
 - 📡 Robotics and AI navigation projects  
 
-
----
+---  
 🚀 **Developed for robotics and autonomous navigation experiments!**  
