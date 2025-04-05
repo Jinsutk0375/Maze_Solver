@@ -1,5 +1,5 @@
 # Maze_Solver  
-
+**Maze solving bot project**
 ## 📝 Overview  
 This project is an autonomous **maze-solving robot** that uses **ultrasonic sensors** and a **left wall-following algorithm** to navigate through a maze while avoiding obstacles.  
 
